@@ -1,2 +1,3 @@
 # goping
-ping implement in golang
+ping implement in golang.
+just practice for learning golang
